@@ -1,6 +1,6 @@
 # api-sentiment-project
 
-[cover](../images/Juego_de_Tronos.jpg)
+[Juego_de_Tronos](../images/Juego_de_Tronos.jpg)
 
 # Creación de una API básica de Juego de Tronos, utilizando Flask.
 La api tiene un método POST para introducir datos y un método GET para extraer datos
